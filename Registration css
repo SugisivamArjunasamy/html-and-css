@@ -1,0 +1,44 @@
+.CONTAINER{
+    align-content: center;
+    width: 40%;
+    height: 10%;
+    background-color:#fa29c9;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 2%;
+    box-shadow: 5px 5px 5px #fc88db;
+}
+
+.USERNAME{
+    width:90%;
+    height: 10%;
+    border-radius: 5px;
+    margin: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 2%;
+    text-align: left;
+    }
+.EMAIL{
+    width:90%;
+    height: 10%;
+    border-radius: 5px;
+
+    margin: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 2%;
+    text-align: left;
+    }
+.PASSWORD{
+    width:90%;
+    height: 10%;
+    border-radius: 5px;
+    margin: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 2%;
+    text-align: left;
+    }
